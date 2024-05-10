@@ -1,0 +1,4 @@
+! Adams View Adams 2020 (建立 Feb 25 2020)
+! 图像:  OpenGL
+! 输入命令'?'或 'help'。
+interface dialog undisplay dialog=.gui.msg_box
